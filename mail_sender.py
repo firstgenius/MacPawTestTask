@@ -4,9 +4,9 @@ import imghdr
 from email.message import EmailMessage
 
 #Enter EMAIL_ADDRESS from file 'Keys'
-EMAIL_ADDRESS = 'dollar.currency.exchange@gmail.com'
+EMAIL_ADDRESS = ''
 #Enter EMAIL_PASSWORD from file 'Keys'
-EMAIL_PASSWORD = 'DollarCurrency'
+EMAIL_PASSWORD = ''
 
 
 def index(message, recipient):
