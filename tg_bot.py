@@ -1,10 +1,10 @@
 import telebot
 import schedule
 from threading import Thread
-from rate_check import *
 from telebot import types
 from datetime import date, datetime
 from time import sleep
+from rate_check import *
 
 #Enter API_KEY from file 'Keys'
 API_KEY = ''
