@@ -6,7 +6,7 @@ It has option to send code not only in telegram, but also to email.
 ## LINK TO USE BOT
 ### t.me/DollarCurrencyGrowthBot
 
-##DETAIL
+## DETAIL
 Bank.gov.ua updates currencies everyday at 4 p.m. Therefore bot updates info about dolar currencies only at this time.
 
 ## Contributing
